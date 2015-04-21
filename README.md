@@ -1,7 +1,13 @@
+<p align="center">
+<img width=25% height=25% src="https://cloud.githubusercontent.com/assets/8317250/7250783/26ac9d42-e860-11e4-875e-983d90333b5b.png">
+</p>
+
+
+![](https://img.shields.io/badge/License-MIT-333333.svg?style=flat-square)
 
 # iso.js
 
-As JavaScript is reaching a stage of maturity it becomes apparent that we need to define the processes that will take advantage of all the recent developments in technology that have become available to us.
+As JavaScript reaches a stage of maturity it becomes apparent that we need to define the processes that will take advantage of all the recent developments in technology that have become available to us.
 
 The proposal is to abolish tools of the past that have become convoluted with workarounds and hacks in the process of solving problems of the past and start with a clean slate using the tools available today and aim towards the future.
 
